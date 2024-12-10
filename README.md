@@ -14,7 +14,7 @@ The workflow scripts and more details on the process are available here: https:/
 
 GRCh38
 
-| name | species | desc | fragment length | data |
-|------|---------|------|-----------------|-|
-| hg38M\_35 | Human | GRCh38 - XY | 35 bp | https://github.com/compgen-io/mappability-data/releases/tag/hg38M_35 |
+| species | description | fragment length | data |
+|---------|-------------|-----------------|------|
+| Human | GRCh38 - XY | 35 bp | [hg38M_35](https://github.com/compgen-io/mappability-data/releases/tag/hg38M_35) |
 
