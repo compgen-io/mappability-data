@@ -17,4 +17,6 @@ GRCh38
 | species | description | fragment length | data |
 |---------|-------------|-----------------|------|
 | Human | GRCh38 - XY | 35 bp | [hg38M_35](https://github.com/compgen-io/mappability-data/releases/tag/hg38M_35) |
-
+| Human | GRCh38 - XY | 50 bp | [hg38M_50](https://github.com/compgen-io/mappability-data/releases/tag/hg38M_50) |
+| Human | GRCh38 - XY | 100 bp | [hg38M_100](https://github.com/compgen-io/mappability-data/releases/tag/hg38M_100) |
+| Human | GRCh38 - XY | 150 bp | [hg38M_150](https://github.com/compgen-io/mappability-data/releases/tag/hg38M_150) |
