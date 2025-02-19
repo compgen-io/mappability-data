@@ -20,3 +20,7 @@ GRCh38
 | Human | GRCh38 - XY | 50 bp | [hg38M_50](https://github.com/compgen-io/mappability-data/releases/tag/hg38M_50) |
 | Human | GRCh38 - XY | 100 bp | [hg38M_100](https://github.com/compgen-io/mappability-data/releases/tag/hg38M_100) |
 | Human | GRCh38 - XY | 150 bp | [hg38M_150](https://github.com/compgen-io/mappability-data/releases/tag/hg38M_150) |
+| Human | GRCh38 - XX | 35 bp | [hg38F_35](https://github.com/compgen-io/mappability-data/releases/tag/hg38F_35) |
+| Human | GRCh38 - XX | 50 bp | [hg38F_50](https://github.com/compgen-io/mappability-data/releases/tag/hg38F_50) |
+| Human | GRCh38 - XX | 100 bp | [hg38F_100](https://github.com/compgen-io/mappability-data/releases/tag/hg38F_100) |
+| Human | GRCh38 - XX | 150 bp | [hg38F_150](https://github.com/compgen-io/mappability-data/releases/tag/hg38F_150) |
